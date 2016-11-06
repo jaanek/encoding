@@ -10,7 +10,8 @@
   "author": "Andris Reinman",
   "license": "MIT",
   "dependencies": {
-    "iconv-lite": "~0.4.13"
+    "iconv-lite": "~0.4.13",
+    "jconv": "~0.1.5"
   },
   "devDependencies": {
     "iconv": "~2.1.11",
